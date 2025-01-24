@@ -1,3 +1,8 @@
+file_path = 'f:/Pro/xyz.txt'
+
+with open(file_path, 'a') as file:
+    file.write('This is a new paragraph added to the file.\n')
+    
 This is a sample text file.
 You can add any content you like here.
 Feel free to modify this text as needed.
