@@ -1,0 +1,15 @@
+F:\github\c#\bin\Debug\net9.0\c#.exe
+F:\github\c#\bin\Debug\net9.0\c#.deps.json
+F:\github\c#\bin\Debug\net9.0\c#.runtimeconfig.json
+F:\github\c#\bin\Debug\net9.0\c#.dll
+F:\github\c#\bin\Debug\net9.0\c#.pdb
+F:\github\c#\obj\Debug\net9.0\c#.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\c#\obj\Debug\net9.0\c#.AssemblyInfoInputs.cache
+F:\github\c#\obj\Debug\net9.0\c#.AssemblyInfo.cs
+F:\github\c#\obj\Debug\net9.0\c#.csproj.CoreCompileInputs.cache
+F:\github\c#\obj\Debug\net9.0\c#.sourcelink.json
+F:\github\c#\obj\Debug\net9.0\c#.dll
+F:\github\c#\obj\Debug\net9.0\refint\c#.dll
+F:\github\c#\obj\Debug\net9.0\c#.pdb
+F:\github\c#\obj\Debug\net9.0\c#.genruntimeconfig.cache
+F:\github\c#\obj\Debug\net9.0\ref\c#.dll
