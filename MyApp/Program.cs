@@ -91,7 +91,25 @@ class Program
         oopsDemo();
         // Day 2 code 
         // Day2 day2 = new Day2();
+        Console.WriteLine("----------------------------------Day 2 code:--------------------------------");
+        Console.WriteLine("-------------------------> List");
         list.ListDemo();
+        Console.WriteLine("-------------------------> Type of Methods");
+        Method method = new Method();
+        method.PredefinedMethod();
+        method.UserDefinedMethod();
+        Method.StaticMethod(); // Call without creating an object
+        method.MethodWithParameters(5, 10);
+        Console.WriteLine($"Addition: {method.Add(5, 10)}");
+        Console.WriteLine($"Addition: {method.Add(5.5, 10.5)}");  // Overloaded method
+        method.Greet();
+        method.Greet("Yovan");
+        method.Greet(name: "Jay");  // Named arguments
+        Console.WriteLine($"Factorial: {method.Factorial(5)}"); // Recursion
+        Method.DoWorkAsync();
+        Console.WriteLine("Main Method Finished.");
+        Linq.XYZ();
+
 
         // ----> Constants
         // Value must be assigned at declaration.
