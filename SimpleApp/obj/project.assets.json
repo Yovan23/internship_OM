@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\github\\c#\\c#.csproj",
-      "projectName": "c#",
-      "projectPath": "F:\\github\\c#\\c#.csproj",
+      "projectUniqueName": "F:\\github\\SimpleApp\\SimpleApp.csproj",
+      "projectName": "SimpleApp",
+      "projectPath": "F:\\github\\SimpleApp\\SimpleApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\github\\c#\\obj\\",
+      "outputPath": "F:\\github\\SimpleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,42 @@
+Command 
+dotnet --version
+dotnet -info
+dotnet help
+
+dotnet new console -o MyApp     
+dotnet new webapi -o MyApi
+dotnet new mvc -o MyMvcApp
+dotnet new razor -o MyApp
+dotnet new classlib -o MyLibrary
+
+dotnet restore -> Restores dependencies from csproj file
+
+dotnet build	 -> Builds the project
+dotnet clean	 -> Cleans the build output
+dotnet run	     -> Runs the application
+dotnet watch run ->	Watches for changes and automatically restarts the application
+
+Managing Dependencies (NuGet)
+dotnet add package <package-name> -> Adds a package to the project
+dotnet remove package <package-name> -> Removes a package from the project
+dotnet list package  -> list install package
+dotnet restore -> Restores all dependencies
+
+dotnet new xunit -o MyTest  -> Creates a new xUnit test project
+dotnet test 
+
+dotnet ef migrations add InitialCreate	-> Creates a new EF migration
+dotnet ef migrations remove	            -> Removes the last migration
+dotnet ef database update	            -> Applies migrations to the database
+dotnet ef database drop	                -> Drops the database
+
+dotnet tool install -g dotnet-ef	-> Installs a global tool (dotnet-ef)
+dotnet tool list -g	                -> Lists installed global tools
+dotnet tool uninstall -g dotnet-ef	-> Uninstalls a global tool
+
+dotnet publish -c Release -o publish	        -> Publishes the app for deployment
+dotnet publish --self-contained -r win-x64	    -> Publishes as a self-contained app for Windows 64-bit
+dotnet publish --self-contained -r linux-x64	-> Publishes for Linux 64-bit
+dotnet publish -r win-x64 --output ./output	    -> Specifies output folder for published files
+
+dotnet ef dbcontext info
