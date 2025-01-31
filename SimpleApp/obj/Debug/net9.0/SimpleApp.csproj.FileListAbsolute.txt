@@ -1,0 +1,15 @@
+F:\github\SimpleApp\bin\Debug\net9.0\SimpleApp.exe
+F:\github\SimpleApp\bin\Debug\net9.0\SimpleApp.deps.json
+F:\github\SimpleApp\bin\Debug\net9.0\SimpleApp.runtimeconfig.json
+F:\github\SimpleApp\bin\Debug\net9.0\SimpleApp.dll
+F:\github\SimpleApp\bin\Debug\net9.0\SimpleApp.pdb
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.AssemblyInfoInputs.cache
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.AssemblyInfo.cs
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.csproj.CoreCompileInputs.cache
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.sourcelink.json
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.dll
+F:\github\SimpleApp\obj\Debug\net9.0\refint\SimpleApp.dll
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.pdb
+F:\github\SimpleApp\obj\Debug\net9.0\SimpleApp.genruntimeconfig.cache
+F:\github\SimpleApp\obj\Debug\net9.0\ref\SimpleApp.dll
