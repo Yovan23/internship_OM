@@ -1,0 +1,15 @@
+F:\github\todoList\bin\Debug\net9.0\todoList.exe
+F:\github\todoList\bin\Debug\net9.0\todoList.deps.json
+F:\github\todoList\bin\Debug\net9.0\todoList.runtimeconfig.json
+F:\github\todoList\bin\Debug\net9.0\todoList.dll
+F:\github\todoList\bin\Debug\net9.0\todoList.pdb
+F:\github\todoList\obj\Debug\net9.0\todoList.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\todoList\obj\Debug\net9.0\todoList.AssemblyInfoInputs.cache
+F:\github\todoList\obj\Debug\net9.0\todoList.AssemblyInfo.cs
+F:\github\todoList\obj\Debug\net9.0\todoList.csproj.CoreCompileInputs.cache
+F:\github\todoList\obj\Debug\net9.0\todoList.sourcelink.json
+F:\github\todoList\obj\Debug\net9.0\todoList.dll
+F:\github\todoList\obj\Debug\net9.0\refint\todoList.dll
+F:\github\todoList\obj\Debug\net9.0\todoList.pdb
+F:\github\todoList\obj\Debug\net9.0\todoList.genruntimeconfig.cache
+F:\github\todoList\obj\Debug\net9.0\ref\todoList.dll
